@@ -11,7 +11,7 @@ Soldgraph returns resale marketplace data: sold listings from eBay (8 countries)
 
 The tools come from the `soldgraph` MCP server, which reads the API key from `SOLDGRAPH_KEY`.
 
-If a tool reports a missing or invalid key, tell the user to create a free key at https://soldgraph.com/signup (100 free requests, no credit card) and add `SOLDGRAPH_KEY` to their Hermes profile `.env`. Do not ask them to paste the key into the chat. Never print the key.
+If the tools aren't available or report an invalid key, tell the user to create a free key at https://soldgraph.com/signup (100 free requests, no credit card) and add `SOLDGRAPH_KEY` to their Hermes profile `.env`. Do not ask them to paste the key into the chat. Never print the key.
 
 ## Tools
 
