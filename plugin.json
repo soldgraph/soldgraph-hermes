@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "soldgraph",
+  "version": "1.0.0",
+  "description": "Check what items sold for on eBay, Poshmark and Mercari, and search live resale listings on six more marketplaces, through the hosted Soldgraph MCP server.",
+  "author": {
+    "name": "Soldgraph",
+    "url": "https://soldgraph.com"
+  },
+  "homepage": "https://soldgraph.com/docs/guides/mcp",
+  "repository": "https://github.com/soldgraph/soldgraph-hermes",
+  "license": "MIT",
+  "keywords": ["soldgraph", "ebay", "sold-prices", "comps", "resale", "poshmark", "mercari", "tcgplayer", "mcp"]
+}
